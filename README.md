@@ -13,8 +13,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_siqui/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-0a58351b8/)
 
-<div>
-  <a href="https://github.com/josemoura212">
+<div align="center">
+  <a href="https://github.com/PedruHNS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedruHNS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedruHNS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
