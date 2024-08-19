@@ -30,7 +30,7 @@
 
 ## Estudos futuros:
 
-![My Skills](https://skillicons.dev/icons?i=python)
+![My Skills](https://skillicons.dev/icons?i=dotnet,c#)
 
 ##
 
@@ -43,9 +43,5 @@ Na visão geral abaixo vc encontrará minhas formações académicas:
 [**Academia Do Flutter**](https://novo.academiadoflutter.com.br/) \
 Linguagens & Tecnologias: `Dart`, `Flutter`, `Firebase`
 
-
-## Frequência de commits:
-
-![snake-gif](https://github.com/PedruHNS/PedruHNS/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2CF71A&height=120&section=footer"/>
