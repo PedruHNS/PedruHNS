@@ -22,7 +22,7 @@
 
 ## Tecnologias que eu uso no meu dia:
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,sqlite,postman,vscode,python,postman)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,sqlite,postman,vscode,python)
 
 ## Estudando no momento:
 
